@@ -4,6 +4,9 @@
 <img src="https://github.com/Dinesh2510/Quotes-App-using-Jetpack-Compose/blob/master/youtube%20thumbnail%20(3).png?raw=true" width="750">
 
 
+[![paypal](https://static-00.iconduck.com/assets.00/youtube-icon-512x512-80maysdk.png)](https://www.youtube.com/watch?v=sklPpTf7Yj8)
+
+
 A Quotes Application built to Demonstrate the use of Jetpack Compose for building declarative UI in
 Android. *Made with love ❤️ by [Dinesh2510](https://github.com/Dinesh2510)*
 
